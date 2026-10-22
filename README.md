@@ -30,7 +30,7 @@ Copy the URL below or click one of the quick-add buttons:
 `https://purplepeanut4.github.io/purplerepo`
 
 <p align="center">
-  <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://purplepeanut4.github.io/purplerepo">
+  <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https%3A%2F%2Fpurplepeanut4.github.io%2Fpurplerepo">
     <img src="https://img.shields.io/badge/Add_to-Cydia-333333?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
   <a href="sileo://source/https://purplepeanut4.github.io/purplerepo">
