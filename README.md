@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Hey!+I'm+AJ+%F0%9F%91%8B;Welcome+to+my+profile!;Check+out+my+iOS+Repo!+%F0%9F%90%B1" alt="Typing SVG" />
+</h1>
 
-<!--
-**purplepeanut4/purplepeanut4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=180&section=header&text=📱%20AJ's%20iOS%20Repository&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+
+<p>
+  <code><b>&gt; name:</b> AJ</code><br>
+  <code><b>&gt; username:</b> purplepeanut4</code><br>
+  <code><b>&gt; focus:</b> iOS Tweaks, Themes & Package Management 🚀</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=apple" />
+  <img src="https://img.shields.io/badge/Platform-iOS-blue?style=for-the-badge&logo=apple" />
+</p>
+
+---
+
+### 📱 Add My Cydia Repository
+
+Copy the URL below or click one of the quick-add buttons:
+
+`https://purplepeanut4.github.io/purplerepo’
+
+<p align="center">
+  <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://purplepeanut4.github.io/repo">
+    <img src="https://img.shields.io/badge/Add_to-Cydia-333333?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="sileo://source/https://purplepeanut4.github.io/repo">
+    <img src="https://img.shields.io/badge/Add_to-Sileo-4A90E2?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="zbr://sources/add/https://purplepeanut4.github.io/repo">
+    <img src="https://img.shields.io/badge/Add_to-Zebra-darkgreen?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+</p>
+
+---
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=100&section=footer" width="100%" />
+</p>
