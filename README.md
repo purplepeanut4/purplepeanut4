@@ -19,4 +19,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=apple" />
   <img src="https://img.shields.io/badge/Platform-iOS-blue?style=for-the-badge&logo=apple" />
+  <img src="https://img.shields.io/badge/Modding-Meta%20Quest-A259FF?style=for-the-badge&logo=meta" />
 </p>
