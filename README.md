@@ -11,9 +11,9 @@
 ### 💫 About Me
 
 <p>
-  <code><b>&gt; name:</b> PurplePeanut4</code><br>
+  <code><b>&gt; name:</b> AJ</code><br>
   <code><b>&gt; username:</b> purplepeanut4</code><br>
-  <code><b>&gt; focus:</b> iOS Tweaks, Themes & Package Management 🚀</code>
+  <code><b>&gt; focus:</b> iOS repository and quest modding 🚀</code>
 </p>
 
 <p align="center">
