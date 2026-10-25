@@ -20,29 +20,3 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=apple" />
   <img src="https://img.shields.io/badge/Platform-iOS-blue?style=for-the-badge&logo=apple" />
 </p>
-
----
-
-### 📱 Add My iOS Repository
-
-Copy the URL below or click one of the quick-add buttons:
-
-`https://purplepeanut4.github.io/purplerepo`
-
-<p align="center">
-  <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https%3A%2F%2Fpurplepeanut4.github.io%2Fpurplerepo">
-    <img src="https://img.shields.io/badge/Add_to-Cydia-333333?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-  <a href="sileo://source/https://purplepeanut4.github.io/purplerepo">
-    <img src="https://img.shields.io/badge/Add_to-Sileo-4A90E2?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-  <a href="zbr://sources/add/https://purplepeanut4.github.io/purplerepo">
-    <img src="https://img.shields.io/badge/Add_to-Zebra-darkgreen?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=100&section=footer" width="100%" />
-</p>
